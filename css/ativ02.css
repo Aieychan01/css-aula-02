@@ -1,0 +1,11 @@
+.lista {
+    color: purple;
+}
+
+p, .lista {
+    font-size: 90px;
+}
+
+#titulo {
+    text-align: center;
+}

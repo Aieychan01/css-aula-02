@@ -1,0 +1,20 @@
+p::first-letter {
+    color: brown;
+    font-size: 55px;
+}
+
+.pina:visited {
+   color: maroon;
+}
+
+.boa:hover {
+    color: yellow;
+}
+
+.olinda:active {
+    color: blue;
+}
+
+.recife:focus {
+    color: darkgreen;
+}
